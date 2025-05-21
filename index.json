@@ -4,11 +4,14 @@
   "apps": [
     {
       "name": "DirtyZero",
-      "bundleID": "com.example.myapp",
-      "developer": "My Name",
-      "version": "1.0.0",
-      "icon": "https://raw.githubusercontent.com/jurre111/dirtyZero/main/dirtyZero/Assets.xcassets/AppIcon.appiconset/FileBreak.png.jpeg",
-      "ipa": "https://raw.githubusercontent.com/jurre111/dirtyZero/main/downloads/dirtyZero.ipa"
+      "bundleIdentifier": "com.example.myapp",
+      "version": "1.0",
+      "versionDate": "2025-05-21",
+      "size": "179000",
+      "downloadsURL": "https://raw.githubusercontent.com/jurre111/dirtyZero/main/downloads/dirtyZero.ipa",
+      "developerName": "DirtyZero",
+      "localizedDescription": "Tweak app for iOS 16-18",
+      "iconURL": "https://raw.githubusercontent.com/jurre111/dirtyZero/main/dirtyZero/Assets.xcassets/AppIcon.appiconset/FileBreak.png.jpeg",
     }
   ]
 }
