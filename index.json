@@ -1,0 +1,10 @@
+[
+  {
+    "name": "DirtyZero",
+    "bundleID": "com.example.myapp",
+    "developer": "My Name",
+    "version": "1.0.0",
+    "icon": "https://raw.githubusercontent.com/jurre111/dirtyZero/main/dirtyZero/Assets.xcassets/AppIcon.appiconset/FileBreak.png.jpeg",
+    "ipa": "https://raw.githubusercontent.com/jurre111/dirtyZero/main/downloads/dirtyZero.ipa"
+  }
+]
