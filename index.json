@@ -4,7 +4,7 @@
   "apps": [
     {
       "name": "DirtyZero",
-      "bundleIdentifier": "com.example.myapp",
+      "bundleIdentifier": "com.jbdotparty.dirtyZero",
       "version": "1.0",
       "versionDate": "2025-05-21",
       "size": "179000",
